@@ -6,7 +6,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 😄 I am **Trần Văn Tuấn Trung** 
+- 😄 I am **Tran Van Tuan Trung** 
 
 - 🔭 I am **a frontend developer**
 
